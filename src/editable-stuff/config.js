@@ -38,7 +38,7 @@ const mainBody = {
 //      i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
-//         resume: "https://collierlink.s3.us-east-2.amazonaws.com/1011collier-resumeVers2(1).docx",
+//         resume: "https://collierlink.s3.us-east-2.amazonaws.com/resume.pdf",
 
 const about = {
   show: true,
@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "I am a high-level analyst with a solid background and a dynamic range of cybersecurity and network defense skills. I have the expertise in IT configuration and technical support. Knowledgeable of online security research, planning, execution, and maintenance. I am skilled at providing training to less technical personnel on relevant cybersecurity threats, countermeasures, and procedures. I am a progressive, hands-on leader who provides critical business strategy support.",
-  resume: "https://collierlink.s3.us-east-2.amazonaws.com/1011collier-resumeVers2(1).docx",
+  resume: "https://collierlink.s3.us-east-2.amazonaws.com/resume.pdf",
 };
 
 // PROJECTS SECTION
