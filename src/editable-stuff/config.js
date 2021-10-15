@@ -21,7 +21,7 @@ const mainBody = {
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/adam-collier-77849717b/",
+      url: "https://www.linkedin.com/in/a-e-e-collier/",
     },
     ],
 };
